@@ -113,10 +113,10 @@ WSGI_APPLICATION = 'wshop.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'wshop',
+        'NAME': 'django-wshop',
         'USER': 'root',
         'PASSWORD': '123456',
-        'HOST': '47.93.184.106',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
