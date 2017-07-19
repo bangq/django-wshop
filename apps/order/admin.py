@@ -16,6 +16,7 @@ class OrderAdmin(admin.ModelAdmin):
         OrderDetailInline,
     ]
 
+    # 测试的功能，正式发布会去掉
     def save_model(self, request, obj, form, change):
         total_money = 0.0
         total_num = request.POST.get('orderdetail_set-TOTAL_FORMS')
