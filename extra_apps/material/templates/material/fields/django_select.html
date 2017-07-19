@@ -1,0 +1,31 @@
+{% load l10n material_form material_form_internal %}
+{% part bound_field.field %}<div class="row">
+    <div{% attrs bound_field 'group' %}
+        id="id_{{ bound_field.html_name }}_container"
+        class="select-field col s12{% if field.required %} required{% endif %}{% if bound_field.errors %} has-error{% endif %}"
+    {% endattrs %}>
+        {% part field prefix %}{% endpart %}{% part field label %}
+        <label{% attrs bound_field 'label' %}
+            for="{{ bound_field.id_for_label }}"
+        {% endattrs %}>{{ bound_field.label }}</label>
+        {% endpart %}
+        {% part field control %}
+        <select{% attrs bound_field 'widget' default field.widget.attrs %}
+            id="id_{{ bound_field.html_name }}"
+            name="{{ bound_field.html_name }}"
+            {% if bound_field.errors %}class="invalid"{% endif %}
+        {% endattrs %}>
+            {% part field options %}{% for group, items in bound_field|select_options %}
+            {% if group %}<optgroup label="{{ group }}">{% endif %}{% for choice, value, selected in items %}
+            <option {% if value == None or value == '' %}value{% else %}value="{{ value|unlocalize }}"{% endif %}{% if selected %} selected="selected"{% endif %}>{% if value == None or value == '' %}{{ form_select_empty_label|default:choice }}{% else %}{{ choice }}{% endif %}</option>{% endfor %}
+            {% if group %}</optgroup>{% endif %}{% endfor %}{% endpart %}
+        </select>
+        {% endpart %}
+        {% part field help_text %}{% if field.help_text %}
+            <div class="help-block">{{ bound_field.help_text|safe }}</div>
+        {% endif %}{% endpart %}{% part field errors %}
+        {% if bound_field.errors %}
+            {% include  'material/field_errors.html' %}
+        {% endif %}{% endpart %}{{ hidden_initial }}
+    </div>
+</div>{% endpart %}

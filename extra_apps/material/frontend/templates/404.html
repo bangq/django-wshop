@@ -1,0 +1,21 @@
+{% extends "material/frontend/base_lockscreen.html" %}
+{% load i18n %}
+
+{% block title %}404 {% trans 'Page not found' %} - {{ block.super }}{% endblock %}
+
+{% block page_title %}404<br/>{% trans 'Page not found' %}{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col s8 offset-s2">
+        <p>{% trans "We're sorry, but the requested page could not be found." %}</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col s12">
+        <a href="/" class="btn btn-primary white-text">{% trans 'View site' %}</a>
+    </div>
+</div>
+{% endblock %}
+
+{% block icon %}not_interested{% endblock %}

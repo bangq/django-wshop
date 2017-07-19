@@ -1,0 +1,48 @@
+{% extends current_module.base_template %}
+{% load i18n material_form material_frontend %}
+
+{% block breadcrumbs_items %}
+<a href="{% url view.model|frontend_urlname:'list' %}">{{ view.model|verbose_name_plural|title }}</a>
+{% if object.pk %}<a href="{% url view.model|frontend_urlname:'detail' object.pk %}">{{ object }}</a>{% endif %}
+<a class="active">{% if object.pk %}{% trans 'Change' %}{% else %}{% trans 'Add' %}{% endif %}</a>
+{% endblock %}
+
+{% block content %}
+{% block left-panel %}
+<div class="left-panel">
+    <div class="card">
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="card-content">
+                <div class="card-title">{% if object.pk %}{{ view.model|verbose_name|title }}: {{ object }}{% else %}{% trans 'Add' %} {{ view.model|verbose_name|title }}{% endif %}</div>
+                {% block form %}
+                {% if view.layout or form.layout%}
+                {% if view.layout %}
+                {% form layout=view.layout %}{% endform %}
+                {% endif %} 
+                {% if form.layout %}
+                {% form layout=form.layout %}{% endform %}
+                {% endif %}
+                {% else %}
+                {% form %}{% endform %}
+                {% for name, formset in formsets.items %}
+                <table>
+                    {{ formset.as_table }}
+                </table>
+                {% endfor %}
+                {% endif %}
+                {% endblock %}
+            </div>
+            <div class="card-action">
+                <div class="right-align">
+                    {% block submit_row %}
+                    <button type="submit" class="waves-effect waves-light btn white-text">{% trans 'Save' %}</button>
+                    {% endblock %}
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock left-panel %}
+{% block right-panel %}{% endblock right-panel %}
+{% endblock %}

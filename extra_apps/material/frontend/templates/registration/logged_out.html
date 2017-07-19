@@ -1,0 +1,17 @@
+{% extends "material/frontend/base_lockscreen.html" %}
+{% load i18n  %}
+
+{% block content %}
+<div class="row">
+    <div class="col s8 offset-s2">
+        {% trans "Thanks for spending some quality time with the Web site today." %}
+    </div>
+</div>
+<div class="row">
+    <div class="col s12">
+        <a href="{% url 'login' %}" class="btn btn-primary white-text">{% trans 'Log in again' %}</a>
+    </div>
+</div>
+{% endblock %}
+
+{% block icon %}thumb_up{% endblock %}
