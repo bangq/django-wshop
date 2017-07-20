@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import OrderDetail, Order , PayRecord
+from .models import OrderDetail, Order, PayRecord
 
 
 # Register your models here.
@@ -15,6 +15,9 @@ class OrderAdmin(admin.ModelAdmin):
     inlines = [
         OrderDetailInline,
     ]
+
+    def has_add_permission(self, request):
+        return False
 
     # 测试的功能，正式发布会去掉
     def save_model(self, request, obj, form, change):
@@ -37,7 +40,15 @@ class OrderDetailAdmin(admin.ModelAdmin):
     search_fields = ['order']
     list_display = ['order', 'goods', 'price', 'count']
 
+    def has_add_permission(self, request):
+        return
+
+
+class PayRecordAdmin(admin.ModelAdmin):
+    def has_add_permission(self, request):
+        return False
+
 
 admin.site.register(Order, OrderAdmin)
 admin.site.register(OrderDetail, OrderDetailAdmin)
-admin.site.register(PayRecord)
+admin.site.register(PayRecord, PayRecordAdmin)
