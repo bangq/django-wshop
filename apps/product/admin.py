@@ -1,4 +1,5 @@
 from django.contrib import admin
+
 from .models import Goods, Category
 
 
@@ -7,8 +8,18 @@ from .models import Goods, Category
 class GoodsAdmin(admin.ModelAdmin):
     search_fields = ['name']
     list_display = ['name', 'cost_price', 'price', 'count']
-    fields = ('category', 'name', 'image', 'barcode', 'cost_price', 'price', 'count')
-    model_icon = "fa fa-product-hunt"
+
+    fields = ('category', 'name', 'image', 'details', 'barcode', 'cost_price', 'price', 'count')
+
+    class Media:
+        js = (
+            'kindeditor/kindeditor-all.js',
+            'kindeditor/lang/zh-CN.js',
+            'kindeditor/goods-config.js',
+        )
+        css = {
+            'all': ('kindeditor/themes/default/default.css', 'kindeditor/plugins/code/prettify.css')
+        }
 
 
 class CategoryAdmin(admin.ModelAdmin):

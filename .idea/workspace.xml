@@ -2,8 +2,595 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec69ddc3-2dc6-484a-a659-3bc781d8a0b0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/_static/firebug_upload_json.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug24_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug24_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/twistyClosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/twistyOpen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/closeHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/twistyClosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/twistyOpen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/images/static.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/image/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/multiimage/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/multiimage/images/select-files-zh-CN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/default/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/default/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/qq/editor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/product/migrations/0004_auto_20170720_1445.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/user/upload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/_templates/classy/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/_templates/classy/static/classy.css_t" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/_templates/classy/theme.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/ajax.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/changelog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/classyext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/cmd.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/colorpicker.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/core.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/dialog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/editor.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/event.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/menu.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/node.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/option.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/plugin.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/qna.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/range.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/selector.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/tabs.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/theme.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/upgrade.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/upload.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/uploadbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/usage.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/docs/widget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/goods-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/kindeditor-all-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/kindeditor-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lang/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/contentScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/firebug-lite-beta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/googleChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension-beta/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/contentScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/firebug-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/googleChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/chrome-extension/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/compress.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/firebug-lite-beta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/firebug-lite-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/build/firebug-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/plugin/proxy/proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/classic/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/light/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/firebug-lite/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/lib/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/anchor/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/autoheight/autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/baidumap/baidumap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/baidumap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/baidumap/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/code/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/code/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/code/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/emoticons/emoticons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/filemanager/filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/fixtoolbar/fixtoolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/flash/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/insertfile/insertfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/lineheight/lineheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/media/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/multiimage/multiimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/preview/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/quickformat/quickformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/table/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/template/html/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/template/html/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/template/html/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/qq/qq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/kindeditor/themes/simple/simple.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/order/admin.py" afterPath="$PROJECT_DIR$/apps/order/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/product/admin.py" afterPath="$PROJECT_DIR$/apps/product/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/product/models.py" afterPath="$PROJECT_DIR$/apps/product/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extra_apps/material/static/material/js/jquery.js" afterPath="$PROJECT_DIR$/extra_apps/material/static/material/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/material/js/jquery.js" afterPath="$PROJECT_DIR$/static/material/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wshop/settings.py" afterPath="$PROJECT_DIR$/wshop/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wshop/urls.py" afterPath="$PROJECT_DIR$/wshop/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,62 +604,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wshop/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="e#306#315#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/user/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/product/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apps/order/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
-              <folding>
-                <element signature="e#227#1104#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="options.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/contrib/admin/options.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="707">
-              <caret line="510" column="19" lean-forward="false" selection-start-line="510" selection-start-column="19" selection-end-line="510" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>STATICFILES_FINDERS</find>
+      <find>DEBUG</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,13 +628,17 @@
       <list>
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/apps/product/admin.py" />
         <option value="$PROJECT_DIR$/apps/order/models.py" />
-        <option value="$PROJECT_DIR$/apps/product/models.py" />
         <option value="$PROJECT_DIR$/apps/user/admin.py" />
         <option value="$PROJECT_DIR$/apps/user/models.py" />
-        <option value="$PROJECT_DIR$/wshop/settings.py" />
         <option value="$PROJECT_DIR$/apps/order/admin.py" />
+        <option value="$PROJECT_DIR$/static/kindeditor/config.js" />
+        <option value="$PROJECT_DIR$/apps/product/models.py" />
+        <option value="$PROJECT_DIR$/wshop/settings.py" />
+        <option value="$PROJECT_DIR$/apps/user/upload.py" />
+        <option value="$PROJECT_DIR$/wshop/urls.py" />
+        <option value="$PROJECT_DIR$/apps/product/admin.py" />
+        <option value="$PROJECT_DIR$/static/kindeditor/goods-config.js" />
       </list>
     </option>
   </component>
@@ -99,10 +649,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="144" />
-    <option name="width" value="1719" />
-    <option name="height" value="1149" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="2578" />
+    <option name="height" value="1408" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -133,88 +686,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="order" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -226,9 +697,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Projects\PyProjects\django-wshop\static\admin\js" />
+      <recent name="C:\Work\Projects\PyProjects\django-wshop\static\js" />
+      <recent name="C:\Work\Projects\PyProjects\django-wshop\static\kindeditor" />
+      <recent name="C:\Work\Projects\PyProjects\django-wshop\extra_apps\material\static\material\js" />
       <recent name="C:\Work\Projects\PyProjects\django-wshop\static\material" />
-      <recent name="C:\Work\Projects\PyProjects\django-wshop\extra_apps\material" />
-      <recent name="C:\Work\Projects\PyProjects\django-wshop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -569,7 +1042,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500520286313</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="后台实体 设置新增的权限">
+      <created>1500523146565</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500523146565</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -582,18 +1062,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="144" width="1719" height="1149" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@django-wshop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30928853" sideWeight="0.6014109" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30928853" sideWeight="0.39858907" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="manage.py@django-wshop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24626279" sideWeight="0.6003906" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24626279" sideWeight="0.3996094" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33921224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22539063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296617" sideWeight="0.4984375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -605,7 +1085,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299578" sideWeight="0.498078" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -623,7 +1102,8 @@
     <MESSAGE value="产品 models 设计" />
     <MESSAGE value="设计了实体 order,goods,pay" />
     <MESSAGE value="修改了实体，material 主题的设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了实体，material 主题的设置" />
+    <MESSAGE value="后台实体 设置新增的权限" />
+    <option name="LAST_COMMIT_MESSAGE" value="后台实体 设置新增的权限" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -688,13 +1168,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/product/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/django/setting-error.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -719,14 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-688">
@@ -743,25 +1208,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/product/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/user/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/user/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -824,34 +1271,8 @@
         <state relative-caret-position="484">
           <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wshop/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#306#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/contrib/admin/options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="510" column="19" lean-forward="false" selection-start-line="510" selection-start-column="19" selection-end-line="510" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/product/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,11 +1286,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/order/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        <state relative-caret-position="814">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/product/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/contrib/admin/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="479" column="6" lean-forward="false" selection-start-line="479" selection-start-column="6" selection-end-line="479" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/kindeditor/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/product/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
           <folding>
-            <element signature="e#227#1104#0" expanded="false" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/material/admin/templates/admin/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wshop/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/conf/urls/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wshop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#637#678#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wshop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user/upload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/kindeditor/goods-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/product/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

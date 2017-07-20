@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.join(BASE_DIR, 'extra_apps'))
 SECRET_KEY = '!hv@bxdr@*(jtc2ox9^7=05fjn+o418ry=$1syaj#2+#4w(bwd'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -44,15 +44,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
-    'ckeditor',
-    'ckeditor_uploader',
     'crispy_forms',
     'user',
     'product',
     'order',
 
 ]
-
 
 # REST_FRAMEWORK settings
 REST_FRAMEWORK = {
@@ -153,6 +150,9 @@ USE_L10N = True
 
 USE_TZ = False
 
+# 拓展django自带的User模型
+AUTH_USER_MODEL = 'user.UserProfile'
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
@@ -161,16 +161,13 @@ STATIC_URL = '/static/'
 
 # 设置上传图片的地址
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
-# ckeditor上传文件路径
-CKEDITOR_UPLOAD_PATH = 'uploads/'
-# 拓展django自带的User模型
-AUTH_USER_MODEL = 'user.UserProfile'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # 当运行 python manage.py collectstatic 的时候
 # STATIC_ROOT 文件夹 是用来将所有 STATICFILES_DIRS 中所有文件夹中的文件，以及各 app 中 static 中的文件都复制过来
 # 把这些文件放到一起是为了用 apache/nginx 等部署的时候更方便
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 25

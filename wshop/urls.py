@@ -17,9 +17,16 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.views.static import serve  # 处理静态文件
 from wshop.settings import MEDIA_ROOT
+from wshop.settings import STATIC_ROOT
+from user import upload
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+
     # 配置上传文件的访问处理函数
     url(r'^media/(?P<path>.*)$', serve, {'document_root': MEDIA_ROOT}),
+    url(r'^static/(?P<path>.*)$', serve, {'document_root': STATIC_ROOT}),
+    url(r'^admin/upload/(?P<dir_name>[^/]+)$', upload.upload_image, name='upload_image'),
+    url(r"^upload/(?P<path>.*)$", serve, {"document_root": MEDIA_ROOT}),
+
 ]
