@@ -21,9 +21,9 @@ class Category(models.Model):
 
 class Goods(models.Model):
     STATUS_CHOICES = (
-                         (0, '下架'),
-                         (1, '上架'),
-                     )
+        (0, '下架'),
+        (1, '上架'),
+    )
 
     category = models.ForeignKey(Category, verbose_name='分类', null=True, blank=True)
     name = models.CharField(max_length=500, verbose_name='产品名称')
@@ -43,6 +43,7 @@ class Goods(models.Model):
     no_search = models.BooleanField(default=False, verbose_name='搜索是否显示')
     cannot_refund = models.BooleanField(default=False, verbose_name='支持退换货')
     order_value = models.IntegerField(default=0, verbose_name='排序值')
+    view_count = models.IntegerField(default=0, verbose_name='浏览量')
     details = models.TextField(verbose_name='详情')
     is_abort = models.BooleanField(default=False, verbose_name='是否删除')
 

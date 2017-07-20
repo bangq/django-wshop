@@ -12,7 +12,7 @@ class UserProfile(AbstractUser):
     mobile = models.CharField(verbose_name='联系方式', max_length=11)
     wechat = models.CharField(verbose_name='微信', max_length=100)
     integral = models.IntegerField(default=0, verbose_name='积分')
-    balance = models.DecimalField(decimal_places=2, max_digits=8, verbose_name='余额')
+    balance = models.DecimalField(decimal_places=2, max_digits=8,default=0.0, verbose_name='余额')
     open_id = models.CharField(max_length=100, verbose_name='OpenId')
     remark = models.TextField(verbose_name='备注')
 

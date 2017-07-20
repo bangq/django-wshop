@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import OrderDetail, Order
+from .models import OrderDetail, Order , PayRecord
 
 
 # Register your models here.
@@ -40,4 +40,4 @@ class OrderDetailAdmin(admin.ModelAdmin):
 
 admin.site.register(Order, OrderAdmin)
 admin.site.register(OrderDetail, OrderDetailAdmin)
-
+admin.site.register(PayRecord)
