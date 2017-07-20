@@ -7,6 +7,8 @@ from datetime import datetime
 class Category(models.Model):
     name = models.CharField(max_length=500, verbose_name='分类名称')
     sort = models.IntegerField(default=0, verbose_name='排序值')
+    pid = models.IntegerField(default=0, verbose_name='上级')
+    image = models.ImageField(upload_to='category/%Y/%m', verbose_name='分类图片')
     is_abort = models.BooleanField(default=False, verbose_name='是否删除')
 
     class Meta:
@@ -17,11 +19,12 @@ class Category(models.Model):
         return self.name
 
 
-class Product(models.Model):
+class Goods(models.Model):
     STATUS_CHOICES = (
                          (0, '下架'),
                          (1, '上架'),
-                     ),
+                     )
+
     category = models.ForeignKey(Category, verbose_name='分类', null=True, blank=True)
     name = models.CharField(max_length=500, verbose_name='产品名称')
     unit = models.CharField(max_length=100, verbose_name='单位')
@@ -29,7 +32,7 @@ class Product(models.Model):
     image = models.ImageField(upload_to='product/%Y/%m', verbose_name='产品图片')
     barcode = models.CharField(max_length=100, verbose_name='条码')
     price = models.DecimalField(max_digits=8, decimal_places=2, verbose_name='售价')
-    market_price = models.DecimalField(max_length=8, decimal_places=2, verbose_name='市场价')
+    market_price = models.DecimalField(max_digits=8, decimal_places=2, verbose_name='市场价')
     cost_price = models.DecimalField(max_digits=8, decimal_places=2, verbose_name='成本价')
     count = models.IntegerField(default=0, verbose_name='库存')
     sales_count = models.IntegerField(default=0, verbose_name='售出数量')

@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import OrderDetail, Order, Customer
+from .models import OrderDetail, Order
 
 
 # Register your models here.
@@ -35,9 +35,9 @@ class OrderAdmin(admin.ModelAdmin):
 
 class OrderDetailAdmin(admin.ModelAdmin):
     search_fields = ['order']
-    list_display = ['order', 'product', 'price', 'count']
+    list_display = ['order', 'goods', 'price', 'count']
 
 
 admin.site.register(Order, OrderAdmin)
 admin.site.register(OrderDetail, OrderDetailAdmin)
-admin.site.register(Customer)
+

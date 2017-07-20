@@ -1,10 +1,10 @@
 from django.contrib import admin
-from .models import Product, Category
+from .models import Goods, Category
 
 
 # Register your models here.
 
-class ProductAdmin(admin.ModelAdmin):
+class GoodsAdmin(admin.ModelAdmin):
     search_fields = ['name']
     list_display = ['name', 'cost_price', 'price', 'count']
     fields = ('category', 'name', 'image', 'barcode', 'cost_price', 'price', 'count')
@@ -18,5 +18,5 @@ class CategoryAdmin(admin.ModelAdmin):
     model_icon = "fa fa-bars"
 
 
-admin.site.register(Product, ProductAdmin)
+admin.site.register(Goods, GoodsAdmin)
 admin.site.register(Category, CategoryAdmin)
