@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/apps/product" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/user" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/extra_apps/material" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/set" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.1 virtualenv at C:\Users\sanli\wshop" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
