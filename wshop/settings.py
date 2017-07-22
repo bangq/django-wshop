@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'material.theme.blue',
+    # 'material.theme.lime',
     'material',
     'material.admin',
     'django.contrib.admin',
@@ -167,7 +167,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # STATIC_ROOT 文件夹 是用来将所有 STATICFILES_DIRS 中所有文件夹中的文件，以及各 app 中 static 中的文件都复制过来
 # 把这些文件放到一起是为了用 apache/nginx 等部署的时候更方便
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
 
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 25
