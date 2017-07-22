@@ -1,5 +1,10 @@
+# -*- coding: utf-8 -*-
 """
- 支付的配置文件
+# @Time       : 2017/7/22 20:11
+# @Author     : bangq
+# @email      : my@yubangqi.com
+# @File       : NoticeSetting.py
+# @Description: 支付配置文件
 """
 # 微信支付 ，默认开启
 WECHAT_PAY = True

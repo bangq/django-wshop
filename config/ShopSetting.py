@@ -1,10 +1,19 @@
+# -*- coding: utf-8 -*-
 """
- 商城的配置文件
-
+# @Time       : 2017/7/22 20:11
+# @Author     : bangq
+# @email      : my@yubangqi.com
+# @File       : NoticeSetting.py
+# @Description: 商城配置文件
 """
 
 # 店铺名称
 SHOP_NAME = "W-SHOP"
+
+# 公司地址
+ADDRESS = ''
+# 客服电话
+PHONE = '10086'
 
 # 商城是否关闭
 Is_Close = False
