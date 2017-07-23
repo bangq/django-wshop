@@ -13,17 +13,20 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/apps/order" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/apps/product" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/user" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/extra_apps/material" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/apps/set" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/product" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.1 virtualenv at C:\Users\sanli\wshop" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.1 virtualenv at ~/.virtualenvs/w-shop" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/static/ckeditor/ckeditor/plugins/templates" />
+      </list>
+    </option>
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

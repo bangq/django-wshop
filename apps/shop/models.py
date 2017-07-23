@@ -24,7 +24,7 @@ class Notice(models.Model):
     order_value = models.IntegerField(default=0, verbose_name='排序值')
     image = models.ImageField(upload_to='notice/%Y/%m', verbose_name='公告图片', null=True, blank=True)
     link = models.CharField(max_length=1000, verbose_name='公告链接', null=True, blank=True)
-    status = models.IntegerField(choices=((0, '隐藏'), (1, '显示')))
+    status = models.IntegerField(choices=((0, '隐藏'), (1, '显示')),verbose_name='状态')
     detail = models.TextField(verbose_name='公告详情')
     is_abort = models.BooleanField(default=False, verbose_name='是否删除')
 

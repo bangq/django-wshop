@@ -1,5 +1,4 @@
-Django==1.10.5
-django-ckeditor==5.3.0
+Django
 django-crispy-forms==1.6.1
 django-filter==1.0.4
 django-formtools==2.0
