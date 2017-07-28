@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
+    'rest_framework_swagger',
     'crispy_forms',
     'user',
     'product',
@@ -56,8 +57,7 @@ INSTALLED_APPS = [
 REST_FRAMEWORK = {
     # 认证方案
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework.authentication.BasicAuthentication',
-        'rest_framework.authentication.SessionAuthentication',
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ),
     # 设置权限
     'DEFAULT_PERMISSION_CLASSES': [

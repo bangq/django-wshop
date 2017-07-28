@@ -17,9 +17,11 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.views.static import serve  # 处理静态文件
 from rest_framework import routers
+
 from wshop.settings import MEDIA_ROOT
 from wshop.settings import STATIC_ROOT
 from user import upload
+from user.api import ProfileDetail, Register, Login, Logout, Profile, ValidateAuth, GetService
 from product.api import CategoryViewSet, GoodsViewSet
 
 router = routers.DefaultRouter()
@@ -27,6 +29,7 @@ router.register(r'goods', viewset=GoodsViewSet)
 router.register(r'category', viewset=CategoryViewSet)
 
 urlpatterns = [
+
     url(r'^admin/', admin.site.urls),
     url(r'^', include(router.urls)),
     url(r'api-auth/', include('rest_framework.urls', namespace='rest_framework')),
@@ -35,5 +38,13 @@ urlpatterns = [
     url(r'^static/(?P<path>.*)$', serve, {'document_root': STATIC_ROOT}),
     url(r'^admin/upload/(?P<dir_name>[^/]+)$', upload.upload_image, name='upload_image'),
     url(r"^upload/(?P<path>.*)$", serve, {"document_root": MEDIA_ROOT}),
+    # url(r'^captcha/', include('captcha.urls')),
+    url(r'^api/profile/', Profile.as_view()),
+    url(r'^api/users/(?P<pk>[0-9]+)', ProfileDetail.as_view()),
+    url(r'^api/register/', Register.as_view()),
+    url(r'^api/validate/', ValidateAuth.as_view()),
+    url(r'^api/login/', Login.as_view()),
+    url(r'^api/logout/', Logout.as_view()),
+    url(r'^api/getservice/', GetService.as_view()),
 
 ]

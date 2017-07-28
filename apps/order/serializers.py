@@ -12,8 +12,13 @@ from .models import Order, OrderDetail
 
 
 class OrderSerializer(serializers.HyperlinkedModelSerializer):
-
     class Mate:
         model = Order
         fields = ('id', 'user_id', 'order_no', 'total_price', 'name', 'mobile', 'address', 'create_time', 'status',
                   'remark')
+
+
+class OrderDetailSerializer(serializers.HyperlinkedModelSerializer):
+    class Mate:
+        model = OrderDetail
+        fields = ('goods_id', 'price', 'count')

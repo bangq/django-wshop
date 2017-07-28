@@ -17,3 +17,5 @@ pytz==2017.2
 six==1.10.0
 virtualenv==15.1.0
 django-ckeditor
+requests
+django-rest-swagger
