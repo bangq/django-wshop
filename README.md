@@ -21,7 +21,9 @@
 后台使用 django admin 来搭建，使用 material 项目做了美化
 
 前台界面预览：
+
 ![](https://i.loli.net/2017/07/28/597af6aba23be.jpg)
+
 
 ![](https://i.loli.net/2017/07/28/597af6d4eb421.jpg)
 
