@@ -57,7 +57,7 @@
     {% for item in root_categorys %}
         <section class="shop">
             <h3>
-                <a href="#">
+                <a href="{% url 'goods_list' %}{{ '?cid=' }}{{ item.id }}">
                     {{ item.name }}
                     <span><img src="{% static 'images/right.png' %}"/></span>
                 </a>
@@ -65,7 +65,7 @@
             <dl>
                 {% for catetory in item.children.all %}
                     <dd>
-                        <a href="list.html">
+                        <a href="{% url 'goods_list' %}">
                             <img src="{{ MEDIA_URL }}{{ catetory.image }}"/>
                             <b>{{ catetory.name }}</b>
                         </a>

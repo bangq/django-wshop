@@ -27,7 +27,8 @@ class Goods(models.Model):
         (1, '上架'),
     )
 
-    category = models.ForeignKey(Category, verbose_name='分类', null=True, blank=True)
+    category = models.ForeignKey(Category, verbose_name='分类', null=True, blank=True,
+                                 limit_choices_to={'is_abort': False})
     name = models.CharField(max_length=500, verbose_name='产品名称')
     unit = models.CharField(max_length=100, verbose_name='单位')
     keywords = models.CharField(max_length=200, verbose_name='关键词')

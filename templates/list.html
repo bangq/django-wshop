@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+{% load staticfiles %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>{{ category_label }}</title>
+
+    <link rel="stylesheet" type="text/css" href="{% static 'css/loaders.min.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/loading.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/base.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}"/>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/swiper.min.css' %}"/>
+    <script src="{% static 'js/jquery.min.js' %}" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $(".loading").addClass("loader-chanage")
+            $(".loading").fadeOut(300)
+        })
+    </script>
+</head>
+<!--loading页开始-->
+<div class="loading">
+    <div class="loader">
+        <div class="loader-inner pacman">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+</div>
+<!--loading页结束-->
+<body>
+<header class="top-header fixed-header">
+    <a class="icona" href="javascript:history.go(-1)">
+        <img src="{% static 'images/left.png' %}"/>
+    </a>
+    <h3>{{ category_label }}</h3>
+
+    <a class="iconb" href="shopcar.html">
+        <img src="{% static 'images/shopbar.png' %}"/>
+    </a>
+</header>
+
+<div class="contaniner fixed-conta">
+    <section class="list">
+        <figure><img src="{% static 'images/list-ban01.png' %}"/></figure>
+        <div class="search">
+            <input type="search" placeholder="韩版卫衣"/>
+            <label><img src="{% static 'images/list-search.png' %}"/></label>
+        </div>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">
+                        <span>全部</span>
+                    </a>
+                </li>
+                <li class="list-active">
+                    <a href="#">
+                        <span>销量</span>
+                        <img src="{% static 'images/up-red.png' %}"/>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span>价格</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span>评价</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <ul class="wall">
+            {% for item in goods_list %}
+                <li class="pic">
+                    <a href="detail.html">
+                        <img src="{{ MEDIA_URL }}{{ item.image }}"/>
+                        <p>{{ item.name }}</p>
+                        <b>￥{{ item.price }}</b>
+                        <del>￥{{ item.market_price }}</del>
+                    </a>
+                </li>
+            {% endfor %}
+
+        </ul>
+    </section>
+</div>
+
+
+<script type="text/javascript" src="{% static 'js/jaliswall.js' %}"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $('.wall').jaliswall({item: '.pic'});
+    });
+</script>
+</body>
+</html>
