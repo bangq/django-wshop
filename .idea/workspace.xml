@@ -2,132 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec69ddc3-2dc6-484a-a659-3bc781d8a0b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/a-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/a-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/a-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/a-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/b-iocn01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/b-iocn02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/b-iocn03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/b-iocn04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/checke.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify-ph01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify-ph02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify-ph03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify-ph04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify-ph05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/classify09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-ban01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-ban02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-ban03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-ban04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-heart-hei.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-heart-lv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-iocn001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-iocn01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-pp01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-pp02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-pp03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-pp04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-tou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/detail-you.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/dian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/down-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/downred.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/footer04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/fxbanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ban01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ban02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ban03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ph01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ph02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/index-ph04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/jianhao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/list-ban01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/list-ban02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/list-ph01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/list-ph02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/list-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/map-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/order-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/order-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/order-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/order-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon012.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-icon06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/self-tou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/serach.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shopbar-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shopbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shopcar-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shopcar-ph01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shopnone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/up-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/write.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/base1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/loaders.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/mui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/swiper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/fastclick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/hmt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jaliswall.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/mui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/rem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/swiper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/swiper/swiper.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/swiper/swiper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/product/migrations/0006_category_parent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/product/migrations/0007_auto_20170731_1812.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/product/admin.py" afterPath="$PROJECT_DIR$/apps/product/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/product/models.py" afterPath="$PROJECT_DIR$/apps/product/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/shop/admin.py" afterPath="$PROJECT_DIR$/apps/shop/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/user/views.py" afterPath="$PROJECT_DIR$/apps/user/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wshop/settings.py" afterPath="$PROJECT_DIR$/wshop/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wshop/urls.py" afterPath="$PROJECT_DIR$/wshop/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,7 +23,48 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/product/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/product/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/order/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/order/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -197,8 +118,8 @@
         <option value="$PROJECT_DIR$/wshop/settings.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/apps/user/views.py" />
-        <option value="$PROJECT_DIR$/apps/shop/admin.py" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/apps/shop/admin.py" />
         <option value="$PROJECT_DIR$/apps/product/admin.py" />
         <option value="$PROJECT_DIR$/apps/product/models.py" />
       </list>
@@ -288,7 +209,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-wshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-wshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-wshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-wshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -543,6 +500,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="wshop.settings" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\sanli\wshop\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -744,7 +702,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501231233467</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="添加了首页模板，修改了后台管理的细节">
+      <created>1501491961137</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1501491961137</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -758,19 +723,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1408" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@django-wshop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29819041" sideWeight="0.5917969" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29819041" sideWeight="0.40820312" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="manage.py@django-wshop" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29819041" sideWeight="0.58984375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29819041" sideWeight="0.41015625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14101562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14101562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3996853" sideWeight="0.4984375" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -808,7 +774,8 @@
     <MESSAGE value="整合了 RDF ，API接口文件" />
     <MESSAGE value="用户接口，登陆，注册，个人信息等" />
     <MESSAGE value="新增 手机商城预览界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增 手机商城预览界面" />
+    <MESSAGE value="添加了首页模板，修改了后台管理的细节" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了首页模板，修改了后台管理的细节" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -823,32 +790,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apps/user/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/kindeditor/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wshop/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/wshop/Lib/site-packages/django/conf/urls/static.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -929,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/user/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/shop/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -980,13 +914,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/order/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1056,13 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/order/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/order/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1097,14 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/product/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,14 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/shop/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1194,18 +1098,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/product/models.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1017" column="0" lean-forward="false" selection-start-line="1017" selection-start-column="0" selection-end-line="1017" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/product/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/shop/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/order/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/product/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        <state relative-caret-position="567">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/product/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding />
         </state>
       </provider>

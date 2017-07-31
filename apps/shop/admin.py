@@ -6,7 +6,7 @@ from .models import Adv, Notice
 
 class AdvAdmin(admin.ModelAdmin):
     list_display = ['title', 'order_value', 'status']
-    fields = ('title', 'order_value', 'status', 'detail')
+    fields = ('title', 'order_value', 'status')
 
 
 admin.site.register(Adv, AdvAdmin)

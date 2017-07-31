@@ -7,8 +7,9 @@ from datetime import datetime
 class Category(models.Model):
     name = models.CharField(max_length=500, verbose_name='分类名称')
     sort = models.IntegerField(default=0, verbose_name='排序值')
-    pid = models.IntegerField(default=0, verbose_name='上级')
-    image = models.ImageField(upload_to='category/%Y/%m', verbose_name='分类图片')
+    parent = models.ForeignKey('self', null=True, blank=True, related_name='children', verbose_name='上级分类',
+                               limit_choices_to={'is_abort': False})
+    image = models.ImageField(upload_to='category/%Y/%m', verbose_name='分类图片', null=True, blank=True)
     is_abort = models.BooleanField(default=False, verbose_name='是否删除')
 
     class Meta:

@@ -47,8 +47,8 @@ class GoodsAdmin(admin.ModelAdmin):
 
 class CategoryAdmin(admin.ModelAdmin):
     search_fields = ['name']
-    list_display = ['name', 'sort', 'pid']
-    fields = ('name', 'sort', 'pid', 'image')
+    list_display = ['name', 'sort', 'parent']
+    fields = ('name', 'sort', 'image', 'parent')
     actions = ['delete_selected']
 
     def delete_selected(self, request, queryset):
@@ -60,6 +60,9 @@ class CategoryAdmin(admin.ModelAdmin):
     def get_queryset(self, request):
         qs = super(CategoryAdmin, self).get_queryset(request)
         return qs.filter(is_abort=False)
+
+
+
 
 
 admin.site.register(Goods, GoodsAdmin)
