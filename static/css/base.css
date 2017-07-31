@@ -1,0 +1,211 @@
+﻿/* CSS Document */
+/* author:cyy */
+/*css reset*/
+*{margin:0;padding:0;}
+html,body { width:100%; }
+body{overflow:-Scroll;overflow-x:hidden; 
+}
+body{font-family:Helvetica;}/*移动端*/
+body{ font-family:"microsoft yahei";}
+
+html {
+  font-family: sans-serif; /* 1 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {  display: block;}
+audio,canvas,progress,video {  display: inline-block; /* 1 */
+  vertical-align: baseline; /* 2 */
+}
+
+/*页面固定定位样式*/
+.fixed-header{ position: fixed; top: 0; left: 0;}
+.fixed-footer{ position: fixed; bottom: 0; left: 0;}
+.fixed-cont{margin-top: 15%;margin-bottom: 20%;}/*顶部和底部都固定*/
+.fixed-conta{margin-top: 15%;}/*顶部固定，底部不固定*/
+.fixed-contb{margin-bottom: 20%;}/*顶部不固定，底部固定*/
+
+
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+[hidden],template {  display: none;}
+a {  background-color: transparent;}
+a:active,a:hover {  outline: 0;}
+abbr[title] {  border-bottom: 1px dotted;}
+b,strong {  font-weight: bold;}
+dfn {  font-style: italic;}
+h1 {  font-size: 2em;  margin: 0.67em 0;}
+mark {  background: #ff0;  color: #000;}
+small {  font-size: 80%;}
+sub,sup {  font-size: 75%;  line-height: 0;  position: relative;  vertical-align: baseline;}
+sup {  top: -0.5em;}
+sub {  bottom: -0.25em;}
+img {  border: 0;}
+svg:not(:root) {  overflow: hidden;}
+
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+pre {
+  overflow: auto;
+}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit; /* 1 */
+  font: inherit; /* 2 */
+  margin: 0; /* 3 */
+}
+button {
+  overflow: visible;
+}
+button,
+select {
+  text-transform: none;
+}
+button,
+html input[type="button"], /* 1 */
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button; /* 2 */
+  cursor: pointer; /* 3 */
+}
+button[disabled],html input[disabled] {  cursor: default;}
+button::-moz-focus-inner,input::-moz-focus-inner {  border: 0;  padding: 0;}
+input {  line-height: normal;}
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box; /* 1 */
+  padding: 0; /* 2 */
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+input[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box; /* 2 */
+  box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+fieldset {  border: 1px solid #c0c0c0;  margin: 0 2px;  padding: 0.35em 0.625em 0.75em;}
+legend {  border: 0; /* 1 */
+  padding: 0; /* 2 */
+}
+textarea {  overflow: auto;}
+optgroup {  font-weight: bold;}
+
+td,th {  padding: 0;}
+
+
+
+table{border-collapse:collapse;border-spacing:0;}
+img{border:0}
+ul{list-style:none;}
+
+input,textarea,select,option,button{font-family: "microsoft yahei";}
+.clear{ clear:both;}
+a{text-decoration:none;outline: none;}
+a:hover{outline: none;}
+input[type="button"],input[type="submit"],input[type="text"]{-webkit-appearance: none; border-radius: 0;}
+input,label{-webkit-tap-highlight-color:rgba(255,0,0,0); }
+a,button,textarea,select{-webkit-appearance: none;-webkit-tap-highlight-color:rgba(255,0,0,0); }/* 1.去除android a/button/input标签被点击时产生的边框 2.去除ios a标签被点击时产生的半透明灰色背景 */
+
+textarea{resize:none;}/*禁止改变大小*/
+/*解决firefox按钮文字难以垂直居中问题*/
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+input[type="file"] > input[type="button"]::-moz-focus-inner{
+	border:none;padding:0;
+}
+input,textarea,select,option,button,form,fieldset{margin:0;padding:0;border-width:1px;outline:none;
+-moz-box-sizing: content-box;
+-webkit-box-sizing: content-box;
+-o-box-sizing: content-box;
+-ms-box-sizing: content-box;
+box-sizing: content-box;
+}
+
+.opa2 {
+  opacity: .2;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 20);
+  filter: alpha(opacity = 20);
+  -moz-opacity: .2;
+  -khtml-opacity: .2;
+}
+.opa3 {
+  opacity: .3;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 30);
+  filter: alpha(opacity = 30);
+  -moz-opacity: .3;
+  -khtml-opacity: .3;
+}
+.opa4 {
+  opacity: .4;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 40);
+  filter: alpha(opacity = 40);
+  -moz-opacity: .4;
+  -khtml-opacity: .4;
+}
+.opa5 {
+  opacity: .5;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 50);
+  filter: alpha(opacity = 50);
+  -moz-opacity: .5;
+  -khtml-opacity: .5;
+}
+.opa6 {
+  opacity: .6;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 60);
+  filter: alpha(opacity = 60);
+  -moz-opacity: .6;
+  -khtml-opacity: .6;
+}
+.opa7 {
+  opacity: .7;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 70);
+  filter: alpha(opacity = 70);
+  -moz-opacity: .7;
+  -khtml-opacity: .7;
+}
+.opa8 {
+  opacity: .8;
+  -ms-filter: progid: DXImageTransform.Microsoft.Alpha(Opacity = 80);
+  filter: alpha(opacity = 80);
+  -moz-opacity: .8;
+  -khtml-opacity: .8;
+}
+
+
+
+html{font-size:10px}
+@media screen and (min-width:321px) and (max-width:375px){html{font-size:11px}}
+@media screen and (min-width:376px) and (max-width:414px){html{font-size:12px}}
+@media screen and (min-width:415px) and (max-width:639px){html{font-size:15px}}
+@media screen and (min-width:640px) and (max-width:719px){html{font-size:20px}}
+@media screen and (min-width:720px) and (max-width:749px){html{font-size:22.5px}}
+@media screen and (min-width:750px) and (max-width:799px){html{font-size:23.5px}}
+@media screen and (min-width:800px){html{font-size:25px}}
+
+
+

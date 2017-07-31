@@ -5,8 +5,9 @@ from .models import Adv, Notice
 # Register your models here.
 
 class AdvAdmin(admin.ModelAdmin):
-    fields = ('title', 'order_value',  'status', 'detail')
+    list_display = ['title', 'order_value', 'status']
+    fields = ('title', 'order_value', 'status', 'detail')
 
 
-admin.site.register(Adv)
-admin.site.register(Notice, AdvAdmin)
+admin.site.register(Adv, AdvAdmin)
+admin.site.register(Notice)

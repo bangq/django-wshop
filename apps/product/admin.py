@@ -11,7 +11,7 @@ class GoodsAdmin(admin.ModelAdmin):
     list_display = ['category', 'name', 'cost_price', 'price', 'count', 'status']
     list_display_links = ('name',)
     list_filter = ('category', 'status', 'is_abort',)
-    fields = ('category', 'name', 'keywords',  'image', 'details', ('count', 'sales_count'),
+    fields = ('category', 'name', 'keywords', 'image', 'details', ('count', 'sales_count'),
               ('market_price', 'cost_price', 'price'),
               ('is_show_sales_count', 'has_invoice', 'cannot_refund', 'no_search'), 'status')
 
@@ -47,8 +47,8 @@ class GoodsAdmin(admin.ModelAdmin):
 
 class CategoryAdmin(admin.ModelAdmin):
     search_fields = ['name']
-    list_display = ['name']
-    fields = ('name', 'sort')
+    list_display = ['name', 'sort', 'pid']
+    fields = ('name', 'sort', 'pid', 'image')
     actions = ['delete_selected']
 
     def delete_selected(self, request, queryset):

@@ -21,6 +21,7 @@ from rest_framework import routers
 from wshop.settings import MEDIA_ROOT
 from wshop.settings import STATIC_ROOT
 from user import upload
+from user.views import IndexView
 from user.api import ProfileDetail, Register, Login, Logout, Profile, ValidateAuth, GetService
 from product.api import CategoryViewSet, GoodsViewSet
 
@@ -29,7 +30,7 @@ router.register(r'goods', viewset=GoodsViewSet)
 router.register(r'category', viewset=CategoryViewSet)
 
 urlpatterns = [
-
+    url(r'^$', IndexView.as_view(), name="index"),
     url(r'^admin/', admin.site.urls),
     url(r'^', include(router.urls)),
     url(r'api-auth/', include('rest_framework.urls', namespace='rest_framework')),
@@ -46,5 +47,6 @@ urlpatterns = [
     url(r'^api/login/', Login.as_view()),
     url(r'^api/logout/', Logout.as_view()),
     url(r'^api/getservice/', GetService.as_view()),
+
 
 ]
