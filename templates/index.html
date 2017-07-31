@@ -54,51 +54,28 @@
         </ul>
     </figure>
 
-    <section class="shop">
-        <h3>
-            <a href="#">
-                服装
-                <span><img src="{% static 'images/right.png' %}"/></span>
-            </a>
-        </h3>
-        <dl>
-            <dd>
-                <a href="list.html">
-                    <img src="{% static 'images/index-ph01.png' %}"/>
-                    <b>男装</b>
+    {% for item in root_categorys %}
+        <section class="shop">
+            <h3>
+                <a href="#">
+                    {{ item.name }}
+                    <span><img src="{% static 'images/right.png' %}"/></span>
                 </a>
-            </dd>
-            <dd>
-                <a href="list.html">
-                    <img src="{% static 'images/index-ph02.png' %}"/>
-                    <b>女装</b>
-                </a>
-            </dd>
-        </dl>
-    </section>
+            </h3>
+            <dl>
+                {% for catetory in item.children.all %}
+                    <dd>
+                        <a href="list.html">
+                            <img src="{{ MEDIA_URL }}{{ catetory.image }}"/>
+                            <b>{{ catetory.name }}</b>
+                        </a>
+                    </dd>
+                {% endfor %}
 
-    <section class="shop">
-        <h3>
-            <a href="list.html">
-                食品
-                <span><img src="{% static 'images/right.png' %}"/></span>
-            </a>
-        </h3>
-        <dl>
-            <dd>
-                <a href="list.html">
-                    <img src="{% static 'images/index-03.png' %}"/>
-                    <b>切糕</b>
-                </a>
-            </dd>
-            <dd>
-                <a href="list.html">
-                    <img src="{% static 'images/index-ph04.png' %}"/>
-                    <b>酥饼</b>
-                </a>
-            </dd>
-        </dl>
-    </section>
+            </dl>
+        </section>
+    {% endfor %}
+
 </div>
 
 <footer class="page-footer fixed-footer">
