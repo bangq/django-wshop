@@ -37,7 +37,15 @@ class ListView(View):
             if not category:
                 category_label = category.name + '的商品'
 
-        return render(request, 'list.html', {
+        return render(request, 'goods-list.html', {
             "category_label": category_label,
             "goods_list": goods_list,
+        })
+
+
+class DetailView(View):
+    def get(self, request, goods_id):
+        goods = Goods.objects.get(pk=goods_id)
+        return render(request, 'goods-detail.html', {
+            'goods': goods,
         })

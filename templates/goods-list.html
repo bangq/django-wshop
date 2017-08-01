@@ -79,7 +79,7 @@
         <ul class="wall">
             {% for item in goods_list %}
                 <li class="pic">
-                    <a href="detail.html">
+                    <a href="{% url 'goods_detail' item.id %}">
                         <img src="{{ MEDIA_URL }}{{ item.image }}"/>
                         <p>{{ item.name }}</p>
                         <b>￥{{ item.price }}</b>
