@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+	<head>
+	    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	    <meta charset="utf-8">
+	    <title>修改密码</title>
+	    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	    <meta http-equiv="Cache-Control" content="no-siteapp">
+	    <meta name="apple-mobile-web-app-capable" content="yes">
+	    <meta name="mobile-web-app-capable" content="yes">
+	    <meta name="format-detection" content="telephone=no">
+	    <meta name="keywords" content="">
+	    <meta name="description" content="">
+	    <script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+	    <script src="js/hmt.js" type="text/javascript"></script>
+	    <script type="text/javascript" src="js/swipe.js"></script>
+	    <link rel="stylesheet" type="text/css" href="css/base1.css"/>
+	    <link rel="stylesheet" type="text/css" href="css/common.css"/>
+	    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+	    <link rel="stylesheet" type="text/css" href="css/loaders.min.css"/>
+    	<link rel="stylesheet" type="text/css" href="css/loading.css"/>
+        <script type="text/javascript">
+	    	$(window).load(function(){
+	    		$(".loading").addClass("loader-chanage")
+	    		$(".loading").fadeOut(300)
+	    		
+	    		
+	    	})
+	    </script>
+	    <!--loading页开始-->
+		<div class="loading">
+			<div class="loader">
+		        <div class="loader-inner pacman">
+		          <div></div>
+		          <div></div>
+		          <div></div>
+		          <div></div>
+		          <div></div>
+		        </div>
+			</div>
+		</div>
+		<!--loading页结束-->
+	</head>
+	<body style="background-color: #fff;">
+		<div class="warp clearfloat">
+			<!--header star-->
+			<div class="header2 top-header clearfloat box-s" id="header">
+				<div class="left1 clearfloat fl">
+					<a href="javascript:history.go(-1)" class="icona"><img src="images/left.png"/></a>
+				</div>
+				<div class="middle clearfloat fl">
+					修改密码
+				</div>
+			</div>
+			<!--header end-->
+			<!--sign star-->
+			<div class="clearfloat" id="main">
+				<div class="sign clearfloat">
+					<input type="text" id="" value="" class="text text1 fl" placeholder="输入原密码" />
+					<input type="text" id="" value="" class="text text1 fl" placeholder="输入新密码" />
+					<input type="text" id="" value="" class="text text1 fl" placeholder="确认密码" />
+					<input type="button" id="" value="修改密码" class="btn fl" />					
+				</div>
+			</div>
+			<!--sign end-->
+		</div>
+	</body>
+</html>
