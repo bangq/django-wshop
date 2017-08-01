@@ -49,3 +49,8 @@ class DetailView(View):
         return render(request, 'goods-detail.html', {
             'goods': goods,
         })
+
+
+class CategorysView(View):
+    def get(self, request):
+        return render(request, 'categorys.html', {})

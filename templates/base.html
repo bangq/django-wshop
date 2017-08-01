@@ -40,13 +40,13 @@
 <footer class="page-footer fixed-footer">
     <ul>
         <li class="active">
-            <a href="index.html">
+            <a href="{% url 'index' %}">
                 <img src="{% static 'images/footer01.png' %}"/>
                 <p>首页</p>
             </a>
         </li>
         <li>
-            <a href="assort.html">
+            <a href="{% url 'category_list' %}">
                 <img src="{% static 'images/footer002.png' %}"/>
                 <p>分类</p>
             </a>
