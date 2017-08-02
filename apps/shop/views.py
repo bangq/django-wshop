@@ -53,4 +53,5 @@ class DetailView(View):
 
 class CategorysView(View):
     def get(self, request):
+
         return render(request, 'categorys.html', {})
