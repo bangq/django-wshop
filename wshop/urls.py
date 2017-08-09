@@ -23,6 +23,7 @@ from wshop.settings import STATIC_ROOT
 from user import upload
 from shop.views import IndexView, ListView, DetailView, CategorysView
 from user.api import ProfileDetail, Register, Login, Logout, Profile, ValidateAuth, GetService
+from user.views import LoginView, LogoutView
 from product.api import CategoryViewSet, GoodsViewSet
 
 router = routers.DefaultRouter()
@@ -34,6 +35,8 @@ urlpatterns = [
     url(r'^list/$', ListView.as_view(), name="goods_list"),
     url(r'^categorys/$', CategorysView.as_view(), name="category_list"),
     url(r'^detail/(?P<goods_id>\d+)/$', DetailView.as_view(), name='goods_detail'),
+    url(r'^login/$', LoginView.as_view(), name='login'),
+    url(r'^logout/$', LogoutView.as_view(), name='logout'),
     url(r'^admin/', admin.site.urls),
     url(r'^', include(router.urls)),
     url(r'api-auth/', include('rest_framework.urls', namespace='rest_framework')),
