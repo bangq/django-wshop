@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'rest_framework_swagger',
     'crispy_forms',
+    'captcha',
     'user',
     'product',
     'order',
