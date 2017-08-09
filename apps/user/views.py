@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.decorators import login_required
 from django.contrib.auth.backends import ModelBackend
 from django.db.models import Q
 from django.views.generic.base import View
@@ -36,6 +37,7 @@ class LoginView(View):
 
 
 # 用户登出
+@login_required(login_url="/login")
 class LogoutView(View):
     def get(self, request):
         logout(request)
