@@ -37,8 +37,12 @@ class LoginView(View):
 
 
 # 用户登出
-@login_required(login_url="/login")
 class LogoutView(View):
     def get(self, request):
         logout(request)
         return HttpResponsePermanentRedirect(reverse('index'))
+
+
+class UserIndexView(View):
+    def get(self, request):
+        return render(request, 'user-index.html')

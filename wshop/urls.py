@@ -37,6 +37,7 @@ urlpatterns = [
     url(r'^detail/(?P<goods_id>\d+)/$', DetailView.as_view(), name='goods_detail'),
     url(r'^login/$', LoginView.as_view(), name='login'),
     url(r'^logout/$', LogoutView.as_view(), name='logout'),
+    url(r'^user/', include('user.urls', namespace='users')),
     url(r'^admin/', admin.site.urls),
     url(r'^', include(router.urls)),
     url(r'api-auth/', include('rest_framework.urls', namespace='rest_framework')),
