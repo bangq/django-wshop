@@ -2,12 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec69ddc3-2dc6-484a-a659-3bc781d8a0b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/user/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/dian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/homenav1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/homenav2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/homenav3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/homenav4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hometit1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hometit2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/hometit3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu1-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu2-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu3-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ftmenu4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/goodsbar-kefu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/goodsbar-like.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/goodsbar-like2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/goodsbar-shop.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/homenav4-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-dizhi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-haoyou.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-nicheng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-qingli.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-share2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-shop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-version.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/ico-zhixun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/icon/iconfont-gerenziliao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/jianhao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/order1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/order2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/order3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/order4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/order5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/qnav1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/qnav2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/qnav3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/qnav4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/quan-bdb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/quan-bdb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/quan-bdt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/quan-bdt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/quan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/select-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/squan-bdl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/squan-bdr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/touxiang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-bigico1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-bigico2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-bigico3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-head-.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-head.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/uc-head.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/ercode.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/headpic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/offline-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/sch-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/shop-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/uploads/t9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/user/views.py" afterPath="$PROJECT_DIR$/apps/user/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wshop/urls.py" afterPath="$PROJECT_DIR$/wshop/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +113,8 @@
       <file leaf-file-name="user-index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/user-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+            <state relative-caret-position="330">
+              <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -165,35 +248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="django-wshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,11 +288,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\Projects\PyProjects\django-wshop\static" />
       <recent name="C:\Work\Projects\PyProjects\django-wshop\templates" />
       <recent name="C:\Work\Projects\PyProjects\django-wshop\Html" />
       <recent name="C:\Work\Projects\PyProjects\django-wshop\static\images" />
       <recent name="C:\Work\Projects\PyProjects\django-wshop\static\js" />
-      <recent name="C:\Work\Projects\PyProjects\django-wshop\static\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Work\Projects\PyProjects\django-wshop\apps" />
@@ -759,7 +814,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502246524516</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="用户中心，首页">
+      <created>1502325520833</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1502325520839</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -1257,8 +1319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/user-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+        <state relative-caret-position="330">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding />
         </state>
       </provider>
