@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/apps/shop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/apps/user" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.1 virtualenv at C:\Users\sanli\wshop" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at C:\Users\sanli\wshop" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
