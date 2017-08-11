@@ -10,7 +10,9 @@ from django.core.urlresolvers import reverse
 
 from pure_pagination import Paginator, EmptyPage, PageNotAnInteger
 
+from apps.mixin_wshop import LoginRequiredMixin
 from .forms import LoginForm
+
 
 
 # 用户登录
@@ -43,6 +45,6 @@ class LogoutView(View):
         return HttpResponsePermanentRedirect(reverse('index'))
 
 
-class UserIndexView(View):
+class UserIndexView(LoginRequiredMixin, View):
     def get(self, request):
         return render(request, 'user-index.html')
